@@ -69,7 +69,7 @@ fi
 while true ; do
     read -p "Delete original file? (y/n):" yn
     case $yn in
-        [Yy]* ) rm "$v_pdffile"; mv "$PDFtarget" "$v_pdffile"; break;;
+        [Yy]* ) rm "$v_pdffile"; mv "$PDFtarget" "$v_pdffile"; break;; ## delete the file if the user choses so
         [Nn]* ) exit;;
         * ) exit;;
     esac

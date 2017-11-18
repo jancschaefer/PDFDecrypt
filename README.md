@@ -36,3 +36,6 @@ git clone https://github.com/jancschaefer/PDFDecrypt.git
 
 ## License
 I decided to publish this via the _UNLICENSE_. Do whatever you want with this. In case you make millions of dollars with it, kindly tell me about my mistake ```¯\_(ツ)_/¯```
+
+## Repository
+https://github.com/jancschaefer/PDFDecrypt
