@@ -1,3 +1,4 @@
+# version 0.0.1
 #setting colors and variables
 RED='\033[0;31m'
 NC='\033[0m' # No Color

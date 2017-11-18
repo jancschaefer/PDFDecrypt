@@ -1,4 +1,6 @@
 # PDFDecrypt
+> Version 0.0.1
+
 __Easily download / decrypt PDFs using the command line.__
 
 This script automatically removes passwords using [qpdf](https://github.com/qpdf/qpdf) from local or remote .pdf files and stores the files to a folder. If you use a remote file it will delete existing files prior to downloading and the new file and the passworded version will not be stored.
